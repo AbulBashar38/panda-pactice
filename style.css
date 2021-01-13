@@ -1,0 +1,13 @@
+.carousel-bg-change{
+    background-color: #feeae9;
+}
+.border-custom{
+    border: 0;
+}
+.footer-border-custom{
+    border: 0;
+    background-color: white;
+}
+.img-custom img{
+    width: 100px;
+}
